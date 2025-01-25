@@ -27,6 +27,7 @@ A LayerEdge utiliza uma abordagem inovadora chamada verificação de provas agre
 A LayerEdge lançou recentemente sua testnet incentivada, permitindo que desenvolvedores e usuários experimentem a plataforma e contribuam para seu desenvolvimento. Participar da testnet pode oferecer recompensas futuras e oportunidades de aprendizado para quem deseja explorar a tecnologia ZK e blockchain de forma prática.
 
 🎯 Como Participar?
+
 1️⃣ Acesse o site oficial: https://www.layeredge.io/ USE O CODIGO - 8ZTUqV2e
 
 2️⃣ Siga os passos para interagir com a testnet.

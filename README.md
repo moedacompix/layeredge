@@ -28,8 +28,11 @@ A LayerEdge lançou recentemente sua testnet incentivada, permitindo que desenvo
 
 🎯 Como Participar?
 1️⃣ Acesse o site oficial: https://www.layeredge.io/ USE O CODIGO - 8ZTUqV2e
+
 2️⃣ Siga os passos para interagir com a testnet.
+
 3️⃣ Explore as funcionalidades e reporte feedbacks para a equipe.
+
 4️⃣ Fique atento a possíveis recompensas e airdrops!
 
 🔗 Saiba mais sobre a testnet incentivada: cryptorank.io
